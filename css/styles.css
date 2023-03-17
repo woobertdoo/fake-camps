@@ -2,7 +2,9 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: "Lobster", cursive;
 }
 
@@ -14,7 +16,7 @@ header h2 {
     color: #CEC8FF;
 }
 
-footer {
+.site-footer {
     background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
 }
